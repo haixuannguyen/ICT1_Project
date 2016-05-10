@@ -1,0 +1,362 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Princess\n"
+"POT-Creation-Date: 2015-04-28 20:05+0100\n"
+"PO-Revision-Date: 2015-04-28 20:05+0100\n"
+"Last-Translator: \n"
+"Language-Team: ThemePrince.com\n"
+"Language: english\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:20 ../404.php:64
+msgid "PAGE NOT FOUND"
+msgstr ""
+
+#: ../404.php:21 ../404.php:65
+msgid "ERROR #404"
+msgstr ""
+
+#: ../404.php:36 ../404.php:71
+msgid "Sorry!"
+msgstr ""
+
+#: ../404.php:36 ../404.php:71
+msgid ""
+"The page you're looking for is not available!<br />Maybe you want to try a "
+"search?"
+msgstr ""
+
+#: ../archive.php:28 ../archive.php:134
+msgid "DAILY ARCHIVES"
+msgstr ""
+
+#: ../archive.php:30 ../archive.php:136
+msgid "MONTHLY ARCHIVES"
+msgstr ""
+
+#: ../archive.php:32 ../archive.php:138
+msgid "YEARLY ARCHIVES"
+msgstr ""
+
+#: ../archive.php:34 ../archive.php:140
+msgid "ARCHIVES"
+msgstr ""
+
+#: ../archive.php:89 ../archive.php:186 ../author.php:89 ../author.php:196
+#: ../category.php:82 ../category.php:176 ../index.php:72 ../index.php:154
+#: ../page-blog-full.php:88 ../page-blog-full.php:191
+#: ../page-blog-small.php:88 ../page-blog-small.php:185 ../tag.php:82
+#: ../tag.php:169
+msgid "Previous Page "
+msgstr ""
+
+#: ../archive.php:93 ../archive.php:190 ../author.php:93 ../author.php:200
+#: ../category.php:86 ../category.php:180 ../index.php:76 ../index.php:158
+#: ../page-blog-full.php:92 ../page-blog-full.php:195
+#: ../page-blog-small.php:92 ../page-blog-small.php:189 ../tag.php:86
+#: ../tag.php:173
+#, php-format
+msgid "PAGE %d OF %d"
+msgstr ""
+
+#: ../archive.php:97 ../archive.php:194 ../author.php:97 ../author.php:204
+#: ../category.php:90 ../category.php:184 ../index.php:80 ../index.php:162
+#: ../page-blog-full.php:96 ../page-blog-full.php:199
+#: ../page-blog-small.php:96 ../page-blog-small.php:193 ../tag.php:90
+#: ../tag.php:177
+msgid "Next Page"
+msgstr ""
+
+#: ../attachment.php:13
+msgid "ATTACHMENT PAGE"
+msgstr ""
+
+#: ../attachment.php:34
+msgid "image attachment"
+msgstr ""
+
+#: ../attachment.php:43
+msgid "Link to the file..."
+msgstr ""
+
+#: ../author.php:24 ../author.php:140
+msgid "AUTHOR ARCHIVES "
+msgstr ""
+
+#: ../author.php:25 ../author.php:141 ../category.php:29 ../category.php:132
+#: ../tag.php:27 ../tag.php:125
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../category.php:28 ../category.php:131
+msgid "CATEGORY ARCHIVES"
+msgstr ""
+
+#: ../comments.php:15
+msgid "COMMENTS"
+msgstr ""
+
+#: ../comments.php:31
+msgid "PREVIOUS"
+msgstr ""
+
+#: ../comments.php:32
+msgid "NEXT"
+msgstr ""
+
+#: ../comments.php:40
+msgid "Thank you for submitting your comment!"
+msgstr ""
+
+#: ../comments.php:51
+msgid "LEAVE A REPLY "
+msgstr ""
+
+#: ../comments.php:55
+msgid "SUBMIT"
+msgstr ""
+
+#: ../comments.php:57
+msgid "Your Name"
+msgstr ""
+
+#: ../comments.php:58
+msgid "Email Address"
+msgstr ""
+
+#: ../comments.php:59
+msgid "Your Website"
+msgstr ""
+
+#: ../content-blog-full.php:21 ../content-blog-small.php:31
+#: ../content-single.php:12
+msgid ", "
+msgstr ""
+
+#: ../content-blog-full.php:21 ../content-blog-small.php:34
+#: ../content-single.php:12
+msgid "0 comment"
+msgstr ""
+
+#: ../content-blog-full.php:21 ../content-blog-small.php:34
+#: ../content-single.php:12
+msgid "1 comment"
+msgstr ""
+
+#: ../content-blog-full.php:21 ../content-blog-small.php:34
+#: ../content-single.php:12
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: ../content-blog-full.php:25 ../content-blog-small.php:42
+msgid "sticky post"
+msgstr ""
+
+#: ../content-blog-full.php:38 ../content-blog-small.php:54
+msgid "Untitled"
+msgstr ""
+
+#: ../content-blog-small.php:66
+msgid "Read more..."
+msgstr ""
+
+#: ../content-blog-small.php:72 ../content-single.php:45
+msgid "TAGS: "
+msgstr ""
+
+#: ../content-single.php:35 ../page.php:33 ../page.php:85
+msgid "<strong>Pages:</strong>"
+msgstr ""
+
+#: ../footer.php:75 ../header.php:76
+msgid "logo"
+msgstr ""
+
+#: ../functions.php:18
+msgid ""
+"We appriciate that you decided to use one of our themes. In case something "
+"is not working properly, feel free to <a href=\"http://www.themeprince.com/"
+"\">contact us</a>.\t\t\t\n"
+"\t\t\tDon't forget to <a href=\"http://www.themeprince.com/\" target=\"_blank"
+"\">visit our site</a> regularly because we release a new theme from time to "
+"time!"
+msgstr ""
+
+#: ../functions.php:52
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:53
+msgid "Footer Menu"
+msgstr ""
+
+#: ../functions.php:159
+msgid "Sidebar Widget Area for Posts"
+msgstr ""
+
+#: ../functions.php:161
+msgid "The sidebar widget area for Posts"
+msgstr ""
+
+#: ../functions.php:169
+msgid "Sidebar Widget Area for Pages"
+msgstr ""
+
+#: ../functions.php:171
+msgid "The sidebar widget area for Pages"
+msgstr ""
+
+#: ../functions.php:181
+msgid "First Footer Widget Area"
+msgstr ""
+
+#: ../functions.php:183
+msgid "The first footer widget area"
+msgstr ""
+
+#: ../functions.php:192
+msgid "Second Footer Widget Area"
+msgstr ""
+
+#: ../functions.php:194
+msgid "The second footer widget area"
+msgstr ""
+
+#: ../functions.php:203
+msgid "Third Footer Widget Area"
+msgstr ""
+
+#: ../functions.php:205
+msgid "The third footer widget area"
+msgstr ""
+
+#: ../functions.php:214
+msgid "Fourth Footer Widget Area"
+msgstr ""
+
+#: ../functions.php:216
+msgid "The fourth footer widget area"
+msgstr ""
+
+#: ../functions.php:225
+msgid "Search & 404 Sidebar"
+msgstr ""
+
+#: ../functions.php:227
+msgid "Sidebar for Search & 404 pages"
+msgstr ""
+
+#: ../functions.php:282
+#, php-format
+msgid "%1$s., %2$s"
+msgstr ""
+
+#: ../functions.php:283
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions.php:290
+msgid "Reply"
+msgstr ""
+
+#: ../functions.php:410
+msgid "Settings are successfully saved."
+msgstr ""
+
+#: ../functions.php:416
+msgid "General Settings"
+msgstr ""
+
+#: ../functions.php:424
+msgid "Upload a logo"
+msgstr ""
+
+#: ../functions.php:432 ../functions.php:454
+msgid "Click here to remove image"
+msgstr ""
+
+#: ../functions.php:435
+msgid "Upload/Select Logo"
+msgstr ""
+
+#: ../functions.php:437
+msgid "Must be in transparent PNG format. Maximum height is 130px."
+msgstr ""
+
+#: ../functions.php:447
+msgid "Upload favicon"
+msgstr ""
+
+#: ../functions.php:457
+msgid "Upload/Select Favicon"
+msgstr ""
+
+#: ../functions.php:459
+msgid "Must be in 32px * 32px ICO format"
+msgstr ""
+
+#: ../functions.php:474
+msgid "Default Sidebar Position"
+msgstr ""
+
+#: ../functions.php:477
+msgid "Right"
+msgstr ""
+
+#: ../functions.php:478
+msgid "Left"
+msgstr ""
+
+#: ../functions.php:488
+msgid "Footer text"
+msgstr ""
+
+#: ../functions.php:488
+msgid "Right bottom corner"
+msgstr ""
+
+#: ../functions.php:491
+msgid "HTML and shortcodes are allowed"
+msgstr ""
+
+#: ../functions.php:499
+msgid "Save Changes"
+msgstr ""
+
+#: ../header.php:29
+msgid ""
+"This website requires JavaScript!</strong> Please enable JavaScript in your "
+"browser and reload the page!"
+msgstr ""
+
+#: ../page-home.php:22
+msgid ""
+"Please set a featured image for this page to display an image here!<br />Try "
+"to keep its file size below 350kbyte for faster loading!"
+msgstr ""
+
+#: ../search.php:19 ../search.php:102
+msgid "SEARCH RESULTS FOR"
+msgstr ""
+
+#: ../search.php:76 ../search.php:153
+msgid "Sorry, but nothing matched your search criteria in posts."
+msgstr ""
+
+#: ../searchform.php:4
+msgid "SEARCH"
+msgstr ""
+
+#: ../tag.php:26 ../tag.php:124
+msgid "TAG ARCHIVES"
+msgstr ""
